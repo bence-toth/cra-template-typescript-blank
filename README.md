@@ -1,10 +1,10 @@
-# cra-template-typescript
+# cra-template-typescript-blank
 
 This is a TypeScript template for [Create React App](https://github.com/facebook/create-react-app) which is entirely blank.
 
 No spinning logo, no unnecessary boilerplate code.
 
-In addition to the official TypeScript template, the following dependencies are added by default:
+In addition to [the official TypeScript template](https://github.com/facebook/create-react-app/tree/main/packages/cra-template-typescript), the following dependencies are included by default:
 
 - [classnames](https://www.npmjs.com/package/classnames)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
