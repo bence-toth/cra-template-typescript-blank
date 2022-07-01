@@ -4,6 +4,11 @@ This is a TypeScript template for [Create React App](https://github.com/facebook
 
 No spinning logo, no unnecessary boilerplate code.
 
+In addition to the official TypeScript template, the following dependencies are added by default:
+
+- [classnames](https://www.npmjs.com/package/classnames)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+
 To use this template, add `--template typescript-blank` when creating a new app.
 
 For example:
