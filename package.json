@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/bence-toth/cra-template-typescript-blank.git"
   },
+  "author": "Bence A. Toth <tothab@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=14"
