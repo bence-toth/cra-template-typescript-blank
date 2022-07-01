@@ -18,7 +18,7 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/bence-toth/cra-template-typescript-blank/issues"
   },
   "files": [
     "template",
