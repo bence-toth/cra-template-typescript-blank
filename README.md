@@ -8,6 +8,7 @@ In addition to [the official TypeScript template](https://github.com/facebook/cr
 
 - [classnames](https://www.npmjs.com/package/classnames)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [stylelint](https://www.npmjs.com/package/stylelint)
 
 Furthermore, there are the following additions:
 
