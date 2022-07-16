@@ -7,12 +7,22 @@ No spinning logo, no unnecessary boilerplate code.
 In addition to [the official TypeScript template](https://github.com/facebook/create-react-app/tree/main/packages/cra-template-typescript), the following dependencies are included by default:
 
 - [classnames](https://www.npmjs.com/package/classnames)
+- [prettier](https://www.npmjs.com/package/prettier)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [stylelint](https://www.npmjs.com/package/stylelint)
+- [stylelint](https://www.npmjs.com/package/stylelint)
+- [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier)
+- [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)
+- [stylelint-prettier](https://www.npmjs.com/package/stylelint-prettier)
 
 Furthermore, there are the following additions:
 
 - HTTPS is enabled in development and test mode
+- Some additional npm scripts are available:
+  - `npm run lint-js` to run ESLint
+  - `npm run lint-css` to run Stylelint
+  - `npm run lint` to run both ESLint and Stylelint
+  - `npm run prettier` to run a Prettier check
 
 To use this template, add `--template typescript-blank` when creating a new app.
 
