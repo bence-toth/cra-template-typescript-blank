@@ -23,6 +23,7 @@ Furthermore, there are the following additions:
   - `npm run lint-css` to run Stylelint
   - `npm run lint` to run both ESLint and Stylelint
   - `npm run prettier` to run a Prettier check
+- A GitHub actions workflow is available that runs build, test, and linters on pull requests
 
 To use this template, add `--template typescript-blank` when creating a new app.
 
