@@ -25,7 +25,8 @@
       "lint": "npm run lint-js; npm run lint-css",
       "lint-js": "eslint ./src",
       "lint-css": "stylelint \"**/*.css\"",
-      "prettier": "prettier --check ."
+      "prettier": "prettier --check .",
+      "test:coverage": "npm test -- --coverage --watchAll=false"
     }
   }
 }
