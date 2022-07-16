@@ -9,6 +9,10 @@ In addition to [the official TypeScript template](https://github.com/facebook/cr
 - [classnames](https://www.npmjs.com/package/classnames)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 
+Furthermore, there are the following additions:
+
+- HTTPS is enabled in development and test mode
+
 To use this template, add `--template typescript-blank` when creating a new app.
 
 For example:
