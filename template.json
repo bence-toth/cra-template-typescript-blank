@@ -28,6 +28,7 @@
       "lint-js": "eslint ./src",
       "lint-css": "stylelint \"**/*.css\"",
       "prettier": "prettier --check .",
+      "test": "react-scripts test --passWithNoTests",
       "test:coverage": "npm test -- --coverage --watchAll=false"
     }
   }
