@@ -9,7 +9,7 @@ In addition to [the official TypeScript template](https://github.com/facebook/cr
 - [`classnames`](https://www.npmjs.com/package/classnames)
 - [`eslint-plugin-jsx-a11y`](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
 - [`eslint-plugin-sonarjs`](https://www.npmjs.com/package/eslint-plugin-sonarjs)
-- [`prettier1](https://www.npmjs.com/package/prettier)
+- [`prettier`](https://www.npmjs.com/package/prettier)
 - [`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
 - [`stylelint`](https://www.npmjs.com/package/stylelint)
 - [`stylelint-config-prettier`](https://www.npmjs.com/package/stylelint-config-prettier)
