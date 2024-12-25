@@ -12,7 +12,6 @@ In addition to [the official TypeScript template](https://github.com/facebook/cr
 - [`prettier`](https://www.npmjs.com/package/prettier)
 - [`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
 - [`stylelint`](https://www.npmjs.com/package/stylelint)
-- [`stylelint-config-prettier`](https://www.npmjs.com/package/stylelint-config-prettier)
 - [`stylelint-config-standard`](https://www.npmjs.com/package/stylelint-config-standard)
 - [`stylelint-prettier`](https://www.npmjs.com/package/stylelint-prettier)
 
